@@ -1,1 +1,0 @@
-## Start by downloading Choreo from **[Releases](https://github.com/SleipnirGroup/Choreo/releases)**
